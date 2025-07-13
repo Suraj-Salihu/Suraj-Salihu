@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://Suraj-Salihu.github.io/"><img title="Made in NIGERIA" src="https://img.shields.io/badge/MADE%20IN-NIGERIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://BAIZID-171.github.io/"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BAIZID-171&label=Profile%20views&color=0e75b6&style=flat" alt="BAIZID-171" /> </p>
@@ -12,7 +12,7 @@
   &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+SURAJ+SALIHU+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Sooraj+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Nigeria 🇳🇬)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+BAIZID+MOSTAFA+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+BAIZID-171+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
 
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
@@ -22,7 +22,7 @@
 
 <div align="center">
 <h3>━━━━ Connect with me ━━━━</h3>
-<a href="https://fb.com/SurajSalihh" target="blank"><img align="center" src="https://raw.githubusercontent.com/Suraj-Salihu/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="BAIZID-171" height="30" width="40" /></a>
+<a href="https://fb.com/Baizid.110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="BAIZID-171" height="30" width="40" /></a>
 <a href="https://twitter.com/Baizid171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BAIZID-171" height="30" width="40" /></a>
 <a href="https://t.me/Tiger_Mate69" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="Baizid.110" height="30" width="40" /></a>
 <a href="https://instagram.com/fashu_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fashu_x" height="30" width="40" /></a>
@@ -31,7 +31,7 @@
 
 <div align="center">
 <h3>━━━━ Connect with Gmail ━━━━</h3>
-<h3>soorajsalihu@gmail.com<h3>
+<h3>aloneboy959688@gmail.com<h3>
 </div>
 
 

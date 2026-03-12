@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/Sooraj">
-<img title="Version" src="https://img.shields.io/badge/Version-1.0.0-green.svg?style=flat-square">
+<img title="Version" src="https://img.shields.io/badge/Version-1.9.9-green.svg?style=flat-square">
 </a>
 
 <br><br>

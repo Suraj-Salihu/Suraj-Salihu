@@ -66,7 +66,7 @@ WELCOME TO MY PROFILE
 
 <h2>Visitor Count</h2>
 
-![Visitors](https://img.shields.io/badge/Visitors-1234-blue)
+![Visitors](https://img.shields.io/badge/Visitors-453-blue)
 
 </div>
 

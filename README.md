@@ -86,19 +86,6 @@ WELCOME TO MY PROFILE
 
 ---
 
-# Demo Stats (Placeholder)
-
-<p align="center">
-
-![Commits](https://img.shields.io/badge/Commits-4500-blue?style=for-the-badge)
-![Stars](https://img.shields.io/badge/Stars-320-yellow?style=for-the-badge)
-![Followers](https://img.shields.io/badge/Followers-150-green?style=for-the-badge)
-![Repositories](https://img.shields.io/badge/Repositories-42-orange?style=for-the-badge)
-
-</p>
-
----
-
 # GitHub Statistics
 
 <p align="center">

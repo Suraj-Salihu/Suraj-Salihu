@@ -1,4 +1,5 @@
-<p align="center">
+<div align="center">
+
 <a href="https://github.com/Sooraj">
 <img title="Made in Nigeria" src="https://img.shields.io/badge/MADE%20IN-NIGERIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge">
 </a>
@@ -6,15 +7,18 @@
 <a href="https://github.com/Sooraj">
 <img title="Version" src="https://img.shields.io/badge/Version-1.0.0-green.svg?style=flat-square">
 </a>
-</p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Sooraj&label=Profile%20Views&color=0e75b6&style=flat" alt="Sooraj"/>
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sooraj&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
 
 ---
 
-<h3 align="center">
+<div align="center">
+
+<h3>
 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 WELCOME TO MY PROFILE
@@ -22,23 +26,33 @@ WELCOME TO MY PROFILE
 
 </h3>
 
-<p align="center">
+</div>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=420&height=60&lines=Hello+World+I'm+Sooraj+🤙;It's+Not+Just+a+Name+🥱;It's+a+Brand+🔥;Respect+Sooraj+🥀;Please+Follow+My+GitHub+🙏;Love+From+Nigeria+🇳🇬)](https://git.io/typing-svg)
 
-</p>
+</div>
 
-<img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<div align="center">
+
+<img src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+</div>
 
 ---
 
-![Profile Banner](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif">
+
+</div>
 
 ---
 
 # Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://fb.com/SurajSalihu">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40">
@@ -56,25 +70,27 @@ WELCOME TO MY PROFILE
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40">
 </a>
 
-</p>
+<br><br>
 
-<p align="center">
 📧 soorajsalihu@gmail.com
-</p>
+
+</div>
 
 ---
 
 # Visitor Count
 
-<p align="center">
+<div align="center">
+
 <img src="https://profile-counter.glitch.me/Sooraj/count.svg">
-</p>
+
+</div>
 
 ---
 
 # Languages and Tools
 
-<p align="center">
+<div align="center">
 
 <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -82,48 +98,52 @@ WELCOME TO MY PROFILE
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 
-</p>
+</div>
 
 ---
 
 # GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sooraj&show_icons=true&theme=tokyonight"/>
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooraj&layout=compact&theme=tokyonight"/>
+
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sooraj&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
 # GitHub Trophies
 
-<p align="center">
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sooraj&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
-</p>
+</div>
 
 ---
 
 # Activity Graph
 
-<p align="center">
+<div align="center">
 
 [![Sooraj Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sooraj&theme=react-dark)](https://github.com/Sooraj)
 
-</p>
+</div>
 
 ---
 
 # Contribution Snake
 
-<p align="center">
+<div align="center">
 
 <img src="https://github.com/Sooraj/Sooraj/blob/output/github-contribution-grid-snake.svg">
 
-</p>
+</div>
